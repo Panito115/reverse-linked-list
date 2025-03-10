@@ -41,3 +41,9 @@ Para evaluar el funcionamiento de su código, deberá realizar lo siguiente en e
 2) Utilizar la función **Reverse with Stack** para crear una nueva lista invertida a partir de la lista original.
 3) Utilizar el método **Reverse Inplace** para invertir la lista original.
 4) Imprimir ambas listas resultantes para evaluar que sean iguales.
+
+## Results
+
+![consolo results](https://github.com/Panito115/reverse-linked-list/commit/5a1b3c05e9596888a22dc2e8d14ae825f845f493#diff-c2ee2a0078d0e7a7f44e5bf783e04ad16d7cbc5a716ad9f0ced7ab67ae6c2893)
+
+
